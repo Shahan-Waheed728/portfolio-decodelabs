@@ -58,8 +58,7 @@ https://github.com/Shahan-Waheed728/portfolio-decodelabs
 
 ---
 
-```markdown
-## 📸 Screenshots
+## Screenshots
 
 ![Homepage Screenshot](images/homepage.png)
 
