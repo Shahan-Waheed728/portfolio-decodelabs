@@ -58,15 +58,10 @@ https://github.com/Shahan-Waheed728/portfolio-decodelabs
 
 ---
 
-## Screenshots
-
-> Add your project screenshots here after uploading them to GitHub.
-
-Example:
-
 ```markdown
+## 📸 Screenshots
+
 ![Homepage Screenshot](images/homepage.png)
-```
 
 ---
 
